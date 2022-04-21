@@ -1,0 +1,79 @@
+/* system1 open */
+.seksyen1{
+    background: url(hm/image/bg.jpg);
+    
+    padding: 8% 15% 8%
+    
+    
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-sewa{
+    color: #ffc400;
+}
+
+.tulisanPutih{
+    color: white;
+}
+/* system1 close */
+/* system 2 open */
+
+.seksyen2{
+    background-color: rgb(211, 211, 211);
+    padding: 5% 15% 5%;
+    text-align: center;
+
+}
+
+.icon{
+    color: rgba(0, 0, 0, 0.74);
+    margin-bottom: 1rem;
+
+}
+
+
+
+.feature-box{
+    padding: 3%;
+}
+
+/* seksyen3 */
+
+.corosel{
+    background-color: #000000cb;
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+
+.corosel{
+    
+    text-align: center;
+    width: auto;
+    padding: 8% 15% 10%;   
+}
+
+/* seksyen 4 open */
+
+.section4{
+    background-image: url(hm/image/4fd9b46093a64ec551ea6b63685ed5c1.jpg);
+    padding: 5%;
+    text-align: center;
+}
+
+.section5{
+    background-color: #5A6268;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+    
+}
+
+.footer{
+    background-color: #DDDDDD;
+    padding: 2%;
+    text-align: center;
+}
